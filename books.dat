@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "id": 12,
+        "name": "we34",
+        "description": "34wert",
+        "isbn": "2345678",
+        "page_count": 345,
+        "issued": true,
+        "author": "rt56y",
+        "year": 5634
+    },
+    {
+        "id": 3,
+        "name": "erfgr",
+        "description": "rgtyh",
+        "isbn": "34567",
+        "page_count": 345,
+        "issued": false,
+        "author": "3er45",
+        "year": 4565
+    }
+]
